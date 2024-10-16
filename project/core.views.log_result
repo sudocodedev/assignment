@@ -1,0 +1,20 @@
+core.views - 2024-10-16 19:44 - INFO - saving vinayak to DB
+core.views - 2024-10-16 19:44 - INFO - Time taken for saving the user to DB = 0.5493395520006743 sec(s)
+core.views - 2024-10-16 19:44 - INFO - a new user registered successfully
+core.views - 2024-10-16 19:46 - INFO - saving mahadev to DB
+core.views - 2024-10-16 19:46 - INFO - user register handler signal got triggered for mahadev
+core.views - 2024-10-16 19:46 - INFO - got the joke
+core.views - 2024-10-16 19:46 - INFO - Email sent to mahadev in this mail shivarajendran1999@gmail.com
+core.views - 2024-10-16 19:46 - INFO - Time taken for sending email = 5.0952167289997305 sec(s)
+core.views - 2024-10-16 19:46 - INFO - Time taken for saving the user to DB = 5.728771100000813 sec(s)
+core.views - 2024-10-16 19:46 - INFO - a new user registered successfully
+core.views - 2024-10-16 20:06 - INFO - saving testuser to DB
+core.views - 2024-10-16 20:06 - INFO - user register handler signal got triggered for testuser
+core.views - 2024-10-16 20:06 - INFO - got the joke
+core.views - 2024-10-16 20:06 - INFO - signal received in threadName = Thread-1, threadID = 139987729086208
+core.views - 2024-10-16 20:06 - INFO - Email sent to testuser in this mail shivarajendran1999@gmail.com
+core.views - 2024-10-16 20:06 - INFO - Time taken for sending email = 6.037687570000344 sec(s)
+core.views - 2024-10-16 20:06 - INFO - account creation happening in threadName = Thread-1, threadID = 139987729086208
+core.views - 2024-10-16 20:06 - INFO - Time taken for saving the user to DB = 6.730555052999989 sec(s)
+core.views - 2024-10-16 20:06 - INFO - a new user registered successfully
+core.views - 2024-10-16 20:25 - ERROR - TestUser_1234 -> username should only contains letters
